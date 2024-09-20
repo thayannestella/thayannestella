@@ -1,6 +1,6 @@
 ## Olá, como vai? Bem Vindo ao meu perfil! 😊
 
-### É um prazer, eu me chamo Thayanne Stella. 
+### É um prazer, eu me chamo Thayanne Stella. <br> Venha conhecer um pouco sobre minhas tecnologias.
 
 <!--
 **thayannestella/thayannestella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
