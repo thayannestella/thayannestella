@@ -6,8 +6,8 @@ Atualmente sou uma desenvolvedora <strong>front-end</strong> que adora gerenciar
 
 ### Se gostou e deseja entrar em contato comigo, aqui estão alguns meios!
 <a href="mailto:thayannes.rodrigues13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo"></a>
-[![LinkedIn]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-(https://www.linkedin.com/in/thayanne-sb-rodrigues/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/thayanne-sb-rodrigues/)
 
 <!--
 **thayannestella/thayannestella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
