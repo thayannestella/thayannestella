@@ -1,4 +1,4 @@
-## Olá, como vai? Bem Vindo ao meu perfil! 😊
+## Olá, como vai? Boas Vindas ao meu perfil! 😊
 
 ### É um prazer, eu me chamo Thayanne Stella. <br> Venha conhecer um pouco sobre minhas tecnologias.
 <p>Atualmente sou uma desenvolvedora <strong>front-end</strong> que adora gerenciar projetos, mas desejo ser <strong>full-stack</strong> no futuro.</p>
